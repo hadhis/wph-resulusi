@@ -1,6 +1,8 @@
 RENCANA KONTEN WPH
 
 - Javascript
+  -ES6
+  - premwork javascript
 -PHP Premwork
 intervew
 vlogs
