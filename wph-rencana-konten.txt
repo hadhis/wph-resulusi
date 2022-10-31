@@ -3,9 +3,11 @@ RENCANA KONTEN WPH
 - Javascript
   -ES6
   - premwork javascript
-    - anguler
+    - vew
     - react
+- struktur data dasa
 - PHP Premwork
   - laravel
 - intervew
 - vlogs
+- pyten
